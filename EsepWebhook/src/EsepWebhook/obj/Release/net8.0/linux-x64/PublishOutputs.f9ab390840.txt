@@ -1,0 +1,7 @@
+/Users/yujinpark/myDotnetFunction/src/myDotnetFunction/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.deps.json
+/Users/yujinpark/myDotnetFunction/src/myDotnetFunction/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.runtimeconfig.json
+/Users/yujinpark/myDotnetFunction/src/myDotnetFunction/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.pdb
+/Users/yujinpark/myDotnetFunction/src/myDotnetFunction/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/Users/yujinpark/myDotnetFunction/src/myDotnetFunction/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/yujinpark/myDotnetFunction/src/myDotnetFunction/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/Users/yujinpark/myDotnetFunction/src/myDotnetFunction/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/publish/EsepWebhook.dll
